@@ -1,9 +1,8 @@
 ### Hi there, I'm Eddy Llumiquinga, a passionate self-taught developer from Ecuador. 👋 👨‍💻
-![imageedit_1_7891188509](https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif)
 
 <a href="https://www.linkedin.com/in/eddy-llumiquinga-776887ab//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
-  
-  
+   
+ <img width="100px" src="https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif" align="left" alt="GitHub Readme Stats" /> 
   
  ![arduino_22429](https://user-images.githubusercontent.com/81939375/113629656-598be580-962c-11eb-89f9-20b5d77b329d.png)
 ![kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b16dbcd8 5939232615320700654495](https://user-images.githubusercontent.com/81939375/113629660-5a247c00-962c-11eb-9f96-e4b732b01665.jpg)
