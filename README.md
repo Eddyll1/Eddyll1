@@ -1,7 +1,7 @@
 ### Hi there, I'm Eddy Llumiquinga, a passionate self-taught developer from Ecuador. 👋 👨‍💻
 ![imageedit_1_7891188509](https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif)
 
-<a href="https://www.linkedin.com/in/eddy-llumiquinga-776887ab//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/eddy-llumiquinga-776887ab//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
   
   
   
