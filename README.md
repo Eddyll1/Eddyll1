@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm eddy  👋 👨‍💻
 ![imageedit_1_7891188509](https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif)
 
 <!--
