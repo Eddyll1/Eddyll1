@@ -1,5 +1,5 @@
 
-<h2> Hi there, I'm Eddy Llumiquinga, a passionate self-taught developer from Ecuador. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2> Hi there, I'm Eddy Llumiquinga. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <img width="200px" src="https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif" align="right" alt="GitHub Readme Stats" /> 
 
@@ -18,4 +18,4 @@
 <a href="https://www.linkedin.com/in/eddy-llumiquinga-776887ab//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/eddyllumiquinga0@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:eddyllumiquinga0@gmail.com)
+[![Email](https://img.shields.io/badge/eddyllumiquinga0@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:eddyllumiquinga0@gmail.com)
