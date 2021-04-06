@@ -3,7 +3,7 @@
 
 <img width="200px" src="https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif" align="right" alt="GitHub Readme Stats" /> 
 
-<em><b>I'm a programmer who has fun solving problems.</b> :)</em>
+<em><b>I'm a programmer who has fun solving problems.</b></em>
 
 ## Languages and Tools:
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113629667-5b55a900-962c-11eb-9498-5104ef9fa077.png"></code>
