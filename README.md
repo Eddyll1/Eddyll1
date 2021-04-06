@@ -1,10 +1,8 @@
 
 <h2> Hi there, I'm Eddy Llumiquinga, a passionate self-taught developer from Ecuador. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
- <img width="200px" src="https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif" align="right" alt="GitHub Readme Stats" /> 
+<img width="200px" src="https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif" align="right" alt="GitHub Readme Stats" /> 
 
-<a href="https://www.linkedin.com/in/eddy-llumiquinga-776887ab//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
-   
 **Languages and Tools:**
 
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113629656-598be580-962c-11eb-89f9-20b5d77b329d.png"></code>
@@ -16,17 +14,8 @@
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113638607-dd4dce00-963c-11eb-9640-01d9857c3e58.png"></code>
 
 
-<!--
-**Eddyll1/Eddyll1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Find me at:
+<a href="https://www.linkedin.com/in/eddy-llumiquinga-776887ab//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me:
+[![Email](https://img.shields.io/badge/eddyllumiquinga0@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:eddyllumiquinga0@gmail.com)
