@@ -3,8 +3,9 @@
 
 <img width="200px" src="https://user-images.githubusercontent.com/81939375/113625359-74f3f200-9626-11eb-9002-fd88191d11cd.gif" align="right" alt="GitHub Readme Stats" /> 
 
-**Languages and Tools:**
+<em><b>I'm a programmer who has fun solving problems.</b> :)</em>
 
+## Languages and Tools:
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113629667-5b55a900-962c-11eb-9498-5104ef9fa077.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113638608-dde66480-963c-11eb-80c1-919918d57409.jpg"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113629666-5abd1280-962c-11eb-9515-0429a142b5cc.png"></code>
@@ -12,7 +13,6 @@
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113638607-dd4dce00-963c-11eb-9640-01d9857c3e58.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113629663-5abd1280-962c-11eb-9d62-9a5602c00078.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/81939375/113638604-dcb53780-963c-11eb-9f40-18fce2e69be8.png"></code>
-
 
 
 ## Find me at:
